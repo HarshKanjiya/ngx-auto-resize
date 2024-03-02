@@ -4,7 +4,7 @@ import { Directive, ElementRef, HostListener } from '@angular/core';
   selector: '[AutoResize]',
   standalone: true
 })
-export class AutoResizeDirective {
+export class AutoResize {
 
   constructor(private elementRef: ElementRef) { }
 
