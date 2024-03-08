@@ -1,6 +1,12 @@
 {
   "name": "ngx-auto-resize",
   "version": "0.0.1",
+  "keywords": [
+    "angular",
+    "textarea",
+    "autosize",
+    "resize"
+  ],
   "peerDependencies": {
     "@angular/common": "^17.2.0",
     "@angular/core": "^17.2.0"

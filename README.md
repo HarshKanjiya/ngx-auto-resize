@@ -1,4 +1,4 @@
-# Auto resize directive for <u>Angular textarea</u>
+# Auto resize directive for Angular textarea
 
 ## Description
 
@@ -39,3 +39,10 @@ Just import the directive in TS file of the component like this.
 <br/>
 
 #### And you are all set. ❤️‍🔥
+
+<br/>
+<br/>
+
+## Example
+
+[Click Here](https://stackblitz.com/~/github.com/HarshKanjiya/ngx-auto-resize---demo)
